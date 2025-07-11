@@ -159,7 +159,7 @@ footer {
 .footer-column {
     width: 50%;
 }
-footer input[type="text"], input[type="email"], .textarea {
+footer input[type="text"], input[type="email"], textarea {
     height: 64px;
     border-radius: 5px;
     background-color: white;
@@ -169,7 +169,4 @@ footer input[type="text"], input[type="email"], .textarea {
     margin-bottom: 24px;
     border: none;
     font-size: 16px;
-}
-footer textarea {
-    height: 200px;
 }
