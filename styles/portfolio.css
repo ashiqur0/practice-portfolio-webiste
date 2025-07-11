@@ -131,4 +131,20 @@ main section {
 }
 .resume-container {
     display: flex;
+    gap: 24px;
+}
+.education-sub-title, .experience-sub-title {
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+.education-description, .experience-description, .education-sub-title, .experience-sub-title {
+    color: #757575;
+}
+
+.resume hr {
+    margin: 30px 5px;
+}
+.resume-download-cv {
+    margin-top: 50px;
 }
