@@ -154,11 +154,12 @@ footer {
     padding: 130px 230px;
     display: flex;
     gap: 100px;
+    margin-top: 113px;
 }
 .footer-column {
     width: 50%;
 }
-footer input[type="text"], input[type="email"], textarea {
+footer input[type="text"], input[type="email"], .textarea {
     height: 64px;
     border-radius: 5px;
     background-color: white;
